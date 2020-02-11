@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Currencies</string>
+
+    <!-- MainActivity -->
+    <string name="toolbar_title_rates">Rates</string>
+    <string name="work_offline">looks like you work offline</string>
+    <string name="back_to_online">looks like you back to online</string>
+    <string name="oops_something_went_wrong">Oops something went wrong!</string>
+    <string name="retry">retry!</string>
+    <string name="currency_icon">currency icon</string>
+
+</resources>
