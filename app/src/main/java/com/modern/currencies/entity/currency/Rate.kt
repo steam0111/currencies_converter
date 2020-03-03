@@ -1,4 +1,4 @@
-package com.modern.currencies.entity.ui
+package com.modern.currencies.entity.currency
 
 import java.text.DecimalFormat
 

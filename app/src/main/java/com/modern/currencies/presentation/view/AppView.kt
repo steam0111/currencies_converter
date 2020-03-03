@@ -1,7 +1,7 @@
 package com.modern.currencies.presentation.view
 
 import androidx.annotation.StringRes
-import com.modern.currencies.entity.ui.Rate
+import com.modern.currencies.entity.currency.Rate
 import moxy.MvpView
 import moxy.viewstate.strategy.AddToEndSingleStrategy
 import moxy.viewstate.strategy.OneExecutionStateStrategy

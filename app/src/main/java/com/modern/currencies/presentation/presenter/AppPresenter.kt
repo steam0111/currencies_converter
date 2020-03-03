@@ -3,7 +3,7 @@ package com.modern.currencies.presentation.presenter
 import android.util.Log
 import com.modern.currencies.BuildConfig
 import com.modern.currencies.R
-import com.modern.currencies.entity.ui.Rate
+import com.modern.currencies.entity.currency.Rate
 import com.modern.currencies.extension.removeFirst
 import com.modern.currencies.model.interactor.CurrenciesInteractor
 import com.modern.currencies.presentation.view.AppView

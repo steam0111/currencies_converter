@@ -2,7 +2,7 @@ package com.modern.currencies.ui.list.adapter
 
 import androidx.recyclerview.widget.DiffUtil
 import com.hannesdorfmann.adapterdelegates4.AsyncListDifferDelegationAdapter
-import com.modern.currencies.entity.ui.Rate
+import com.modern.currencies.entity.currency.Rate
 import com.modern.currencies.ui.list.delegate.CurrenciesDaPayloads
 import com.modern.currencies.ui.list.delegate.currenciesDelegateAdapter
 

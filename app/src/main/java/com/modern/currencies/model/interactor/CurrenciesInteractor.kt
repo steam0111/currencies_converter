@@ -1,6 +1,6 @@
 package com.modern.currencies.model.interactor
 
-import com.modern.currencies.entity.ui.Rate
+import com.modern.currencies.entity.currency.Rate
 import com.modern.currencies.model.repository.CurrenciesRepository
 import java.text.DecimalFormat
 

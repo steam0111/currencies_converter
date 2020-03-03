@@ -4,7 +4,7 @@ import android.widget.EditText
 import android.widget.TextView
 import com.hannesdorfmann.adapterdelegates4.dsl.adapterDelegate
 import com.modern.currencies.R
-import com.modern.currencies.entity.ui.Rate
+import com.modern.currencies.entity.currency.Rate
 import com.modern.currencies.extension.enableEdit
 import com.modern.currencies.extension.onTextChange
 import com.modern.currencies.extension.safeToFloat

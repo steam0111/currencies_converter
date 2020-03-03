@@ -6,7 +6,7 @@ import android.widget.Toast
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.modern.currencies.R
-import com.modern.currencies.entity.ui.Rate
+import com.modern.currencies.entity.currency.Rate
 import com.modern.currencies.presentation.presenter.AppPresenter
 import com.modern.currencies.presentation.view.AppView
 import com.modern.currencies.ui.list.adapter.CurrenciesAdapter
